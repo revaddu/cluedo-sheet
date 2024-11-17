@@ -8,15 +8,15 @@
     },
     "suspect": {
       "mustard": {
-        "name": "Colonel Mustard",
+        "name": "Col. Mustard",
         "short": "M"
       },
       "plum": {
-        "name": "Professor Plum",
+        "name": "Prof. Plum",
         "short": "P"
       },
       "green": {
-        "name": "Rev Green",
+        "name": "Mr Green",
         "short": "G"
       },
       "peacock": {
@@ -30,10 +30,6 @@
       "orchid": {
         "name": "Dr Orchid",
         "short": "O"
-      },
-      "white": {
-        "name": "Mrs. White",
-        "short": "W"
       }
     },
     "weapon": {

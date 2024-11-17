@@ -1,0 +1,55 @@
+{
+  "translation": {
+    "gameName": "Cluedo",
+    "title": {
+      "who": "Wer?",
+      "what": "Was?",
+      "where": "Wo?"
+    },
+    "suspect": {
+      "mustard": {
+        "name": "Oberst von Gatow",
+        "short": "G"
+      },
+      "plum": {
+        "name": "Prof. Bloom",
+        "short": "B"
+      },
+      "green": {
+        "name": "Reverend Grün",
+        "short": "R"
+      },
+      "peacock": {
+        "name": "Frau Porz",
+        "short": "F"
+      },
+      "scarlett": {
+        "name": "Frau Gloria",
+        "short": "G"
+      },
+      "orchid": {
+        "name": "Dr Orchidee",
+        "short": "O"
+      }
+    },
+    "weapon": {
+      "dagger": "Dolch",
+      "candlestick": "Leuchter",
+      "revolver": "Pistole",
+      "rope": "Seil",
+      "leadPipe": "Heizungsrohr",
+      "wrench": "Rohrzange"
+    },
+    "room": {
+      "hall": "Halle",
+      "lounge": "Salon",
+      "diningRoom": "Speisezimmer",
+      "kitchen": "Küche",
+      "ballroom": "Musikraum",
+      "conservatory": "Wintergarten",
+      "billiardRoom": "Billardzimmer",
+      "library": "Bibliothek",
+      "study": "Arbeitszimmer"
+    }
+  }
+}

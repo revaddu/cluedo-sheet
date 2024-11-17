@@ -1,18 +1,18 @@
 import * as i18next from "i18next";
-import zhTW from "../locales/zh-TW.json";
+import zhTW from "../locales/de.json";
 import en from "../locales/en.json";
 
 export const LOCALE_DATA: Record<string, string> = {
-  "zh-TW": "繁體中文",
+  de: "Deutsch",
   en: "English",
 };
-export const DEFAULT_LOCALE = "zh-TW";
+export const DEFAULT_LOCALE = "en";
 
 export function initLocale(locale: string) {
   i18next.init({
     lng: locale,
     resources: {
-      "zh-TW": zhTW,
+      de: zhTW,
       en,
     },
   });
