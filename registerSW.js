@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/cluedo-sheet/sw.js', { scope: '/cluedo-sheet/' })})}
